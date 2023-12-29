@@ -1,4 +1,4 @@
-[Header](https://github.com/Sinder7/Sinder7/blob/main/assets/header.png)
+[![Header](https://github.com/Sinder7/Sinder7/blob/main/assets/header.png)](https://github.com/Sinder7/Sinder7/)
 
 ## Content/Apps/Games Creator
 
