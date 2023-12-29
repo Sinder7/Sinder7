@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/-flet-black?style=for-the-badge&logo=flutter&logoColor=b54069)
 
 
-### Socials:
+### 🔗 Socials:
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=%12407d)](https://t.me/barticula)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/rszekkp)
 [![Kwork](https://img.shields.io/badge/-Kwork-090909?style=for-the-badge&logo=k&logoColor=1C9DEB)](https://kwork.ru/user/rasul_dev)
