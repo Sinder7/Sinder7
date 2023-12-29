@@ -2,12 +2,12 @@
 
 ## Don't waste your life
 
---
+---
 
 ### 🧰 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=1fad14)
-![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=aiogran&logoColor=F8C52C)
+![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=aiogram&logoColor=F8C52C)
 ![Flet](https://img.shields.io/badge/-Flet-090909?style=for-the-badge&logo=flet&logoColor=F88C00)
 
 ### Socials:
