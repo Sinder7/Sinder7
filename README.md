@@ -2,27 +2,9 @@
 
 ## Don't waste your life
 
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
-</a>
-<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
-</a>
-<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
-</a>
 
-### Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как передать данные именованному маршруту во Flutter](https://www.youtube.com/watch?v=gL8DQKQx6Yo)
-- [Навигация во Flutter с использованием именованных маршрутов](https://www.youtube.com/watch?v=4GMW0yphxN4)
-- [Как передавать данные между экранами во Flutter](https://www.youtube.com/watch?v=7CluiX90w7Q)
-- [Навигация между экранами во Flutter. Navigator push/pop](https://www.youtube.com/watch?v=mY8Ij5nM_Kk)
-- [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
-<!-- YOUTUBE:END -->
-
-### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+### 🧰 Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
