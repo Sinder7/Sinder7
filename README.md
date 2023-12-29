@@ -5,12 +5,13 @@
 ---
 
 ### 🧰 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=1fad14)
-![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=telegram&logoColor=2c78c9)
-![Flet](https://img.shields.io/badge/-Flet-090909?style=for-the-badge&logo=flet&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=%20yellow)
+![Static Badge](https://img.shields.io/badge/-fastapi-black?style=for-the-badge&logo=fastapi&logoColor=green)
+![Static Badge](https://img.shields.io/badge/-aiogram-black?style=for-the-badge&logo=telegram&logoColor=84bbf5)
+![Static Badge](https://img.shields.io/badge/-flet-black?style=for-the-badge&logo=flutter&logoColor=b54069)
+
 
 ### Socials:
-[![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/the_cybermania)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![Kwork](https://img.shields.io/badge/-Kwork-090909?style=for-the-badge&logo=kwork&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=pytelegramthon&logoColor=%12407d)](https://t.me/barticula)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/rszekkp)
+[![Kwork](https://img.shields.io/badge/-Kwork-090909?style=for-the-badge&logo=k&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
