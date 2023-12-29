@@ -1,6 +1,6 @@
 [![Header](https://github.com/Sinder7/Sinder7/blob/main/assets/header.png)](https://github.com/Sinder7/Sinder7/)
 
-## Content/Apps/Games Creator
+## Don't waste your life
 
 <a href="https://the-unl.com" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
