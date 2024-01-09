@@ -14,4 +14,4 @@
 ### 🔗 Socials:
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=%12407d)](https://t.me/barticula)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/rszekkp)
-[![Kwork](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=k&logoColor=1C9DEB)](rasul_sadullayev@mail.ru)
+[![Kwork](https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=k&logoColor=1C9DEB)](rasul_sadullayev@mail.ru)
