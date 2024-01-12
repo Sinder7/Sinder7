@@ -8,7 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=%20yellow)
 ![Static Badge](https://img.shields.io/badge/-fastapi-black?style=for-the-badge&logo=fastapi&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/-aiogram-black?style=for-the-badge&logo=telegram&logoColor=84bbf5)
-![Static Badge](https://img.shields.io/badge/-flet-black?style=for-the-badge&logo=flutter&logoColor=b54069)
 
 
 ### 🔗 Socials:
