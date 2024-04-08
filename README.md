@@ -1,6 +1,6 @@
 [![Header](https://github.com/Sinder7/Sinder7/blob/main/assets/header.png)](https://github.com/Sinder7/Sinder7/)
 
-## Don't waste your life
+## 🧊
 
 ---
 
